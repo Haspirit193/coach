@@ -1,9 +1,9 @@
 <?php
 class connect{
-  const DB_NAME = "coach";
-  const HOST = "localhost";
-  const USER = "user";
-  const PASS = "pass";
+  const DB_NAME = "heroku_d41df13d008ebe9";
+  const HOST = "us-cdbr-east-06.cleardb.net";
+  const USER = "bcad1ed2f5e990";
+  const PASS = "67e43ef6";
 
   protected $dbh;
 

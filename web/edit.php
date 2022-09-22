@@ -151,7 +151,7 @@
       }
     </style>
 
-    <link href="./css/coach.css" rel="stylesheet">
+    <link href="./css/blog.css" rel="stylesheet">
   </head>
   <body>
 

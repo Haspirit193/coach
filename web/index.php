@@ -48,7 +48,7 @@
   <body class="text-center">
     
 <main class="form-signin">
-  <form action="login.php" method="post">
+  <form action="index.php" method="post">
     <h1 class="h3 mb-3 fw-normal">ログインする</h1>
     <?php
       if (!is_null($err)){

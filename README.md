@@ -35,7 +35,7 @@ HTML / CSS / Bootstrap / PHP
 更に、モチベーションが高まった状態なので、ノートに記した簡単な行動を起こしやすくなる効果もあります。  
 
 ## **サービス利用方法**
-![Coachingnote_1](https://user-images.githubusercontent.com/114043087/192194533-cafaadef-ff7a-4111-ab5b-c2c12d1a06b8.gif)
+![coachingnote_1 1](https://user-images.githubusercontent.com/114043087/192197601-6ec9a8ed-10b9-4e9f-b48f-8d69f1ee324c.gif)
 
 #### **「ノートを書く」** 
 新規コーチングノートを作成します。
@@ -55,7 +55,7 @@ HTML / CSS / Bootstrap / PHP
 
 「いいね！！」：投稿ボタンです。心の中でいいね！！とつぶやきながら押すと、より気分があがります。
 
-![coachingnote_2](https://user-images.githubusercontent.com/114043087/192195618-fc42463c-a74e-4f40-82e7-bebc2cbd4e16.gif)
+![coachingnote_2 1](https://user-images.githubusercontent.com/114043087/192197877-acdb336b-df04-4c16-a6b0-117312154560.gif)
 
 
 #### **「ノートカテゴリー」**

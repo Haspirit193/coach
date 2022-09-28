@@ -16,7 +16,7 @@ ID:  ikumi<br>
 Pass:  test  
 
 ## **使用技術**
-HTML / CSS / Bootstrap / PHP
+HTML / CSS / PHP
 
 ## **ユーザーが抱える課題**
 
